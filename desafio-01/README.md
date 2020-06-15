@@ -1,6 +1,3 @@
-# bootcamp-gostack-desafios
-Repositório para entrega dos desafios
-
 ### Cronograma semanal
 
 <p align="center">
