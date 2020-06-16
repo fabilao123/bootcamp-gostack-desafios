@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1592269527527" clover="3.2.0">
+  <project timestamp="1592269527527" name="All files">
+    <metrics statements="39" coveredstatements="39" conditionals="6" coveredconditionals="6" methods="8" coveredmethods="8" elements="53" coveredelements="53" complexity="0" loc="39" ncloc="39" packages="1" files="1" classes="1"/>
+    <file name="app.js" path="C:\bootcamp\bootcamp-gostack-desafios\desafio-02\gostack-template-conceitos-nodejs-master\src\app.js">
+      <metrics statements="39" coveredstatements="39" conditionals="6" coveredconditionals="6" methods="8" coveredmethods="8"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="6" type="stmt"/>
+      <line num="19" count="6" type="stmt"/>
+      <line num="27" count="6" type="stmt"/>
+      <line num="29" count="6" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="34" count="3" type="stmt"/>
+      <line num="36" count="10" type="stmt"/>
+      <line num="38" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="50" count="2" type="stmt"/>
+      <line num="52" count="2" type="stmt"/>
+      <line num="55" count="2" type="stmt"/>
+      <line num="56" count="2" type="stmt"/>
+      <line num="58" count="9" type="stmt"/>
+      <line num="60" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="69" count="2" type="stmt"/>
+      <line num="70" count="3" type="stmt"/>
+      <line num="72" count="3" type="stmt"/>
+      <line num="74" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="75" count="1" type="stmt"/>
+      <line num="78" count="2" type="stmt"/>
+      <line num="80" count="2" type="stmt"/>
+      <line num="82" count="2" type="stmt"/>
+      <line num="85" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
